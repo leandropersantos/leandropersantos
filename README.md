@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leandropersantos
+- 👋 Hi, I’m Leandro
 - 👀 I’m interested in hm... many things? design, art, culture, media, fashion, urban planning and technology - with all having the common goal of assisting in building a sustainable future.
 - 🌱 I’m a very much new comer, currently in a front-end dev learning process (mostly html, css and javascript) and also enroled in the Oracle Next Education program by Oracle + Alura. 
 
